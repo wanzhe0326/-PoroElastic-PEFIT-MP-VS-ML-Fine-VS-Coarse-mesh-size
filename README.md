@@ -11,4 +11,4 @@ Zipped file 3.1. Poroelastic PEFIT 1600 x 89, mesh size dx =1, dy=1 (3.1.1 ML; 3
 
 AB parameter: 0.00045; loading/unloading: 10E-03; load moves forward two grids at one time.
 
-Results: By comparing ML VS MP to check if there is bug in system. Also, different mesh sizes are tested, total computational time and accuracy are compared.
+Report 2.1: By comparing ML VS MP to check if there is bug in system. Also, different mesh sizes are tested, total computational time and accuracy are compared.
